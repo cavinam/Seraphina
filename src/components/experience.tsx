@@ -9,7 +9,7 @@ export default function Experience() {
       <h2 className="text-center text-3xl font-bold xs:text-4xl md:text-5xl lg:text-6xl mb-10">
         My Experiences
       </h2>
-      <a className="relative block overflow-hidden rounded-lg border border-gray-100 p-4 sm:p-6 lg:p-8">
+      <a className="relative block overflow-hidden rounded-lg border border-gray-100 p-4 sm:p-6 lg:p-8 z-10">
         <span className="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"></span>
 
         <div className="sm:flex sm:justify-between sm:gap-4">

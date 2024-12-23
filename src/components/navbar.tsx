@@ -50,39 +50,42 @@ export default function Navbar() {
         </div>
       </div>
       <div>
-        <a className="btn btn-ghost text-xl navbar-center" href="#hero">
+        <a
+          className="btn btn-ghost text-xl navbar-center text-white"
+          href="#hero"
+        >
           Cavin AM
         </a>
       </div>
       <div className="navbar-center hidden lg:flex mx-6">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <a href="#aboutme" className="font-bold text-xl">
+            <a href="#aboutme" className="font-bold text-xl text-white">
               About
             </a>
           </li>
           <li>
-            <a href="#skill" className="font-bold text-xl">
+            <a href="#skill" className="font-bold text-xl text-white">
               My Skills
             </a>
           </li>
           <li>
-            <a href="#project" className="font-bold text-xl">
+            <a href="#project" className="font-bold text-xl text-white">
               Project
             </a>
           </li>
           <li>
-            <a href="#experience" className="font-bold text-xl">
+            <a href="#experience" className="font-bold text-xl text-white">
               Experience
             </a>
           </li>
           <li>
-            <a href="#testimony" className="font-bold text-xl">
+            <a href="#testimony" className="font-bold text-xl text-white">
               Testimony
             </a>
           </li>
           <li>
-            <a href="#contact" className="font-bold text-xl">
+            <a href="#contact" className="font-bold text-xl text-white">
               Contact
             </a>
           </li>
